@@ -16,21 +16,42 @@
 <hr>
 <div align="center">
   <h4>Languages & Tools:</h4>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-</div>
-<hr>
-<div id="badges" align="center">
-  <h3>You can find me here:</h3>
-  <a href="https://www.linkedin.com/in/gaia-filippi-97aa24177/">
-    <img src="https://img.shields.io/badge/Linkedin-indigo?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
-    <img src="https://img.shields.io/badge/Telegram-indigo?style=for-the-badge&logo=Telegram&logoColor=white" alt="Linkedin Badge"/>
+ 
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-214CE5?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7611F6?style=for-the-badge&logo=Bootstrap&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="nodejs" src="https://img.shields.io/badge/node%20js-026E00?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://angularjs.org/" target="_blank">
+    <img alt="angular" src="https://img.shields.io/badge/angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white" style="border-radius:10%">
+  </a>
+  <br>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius:10%">
+  </a>
+      <a href="https://www.adobe.com/" target="_blank">
+    <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-0079D6?style=for-the-badge&logo=adobe-photoshop&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://www.canva.com/">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://www.github.com">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-231F20?style=for-the-badge&logo=github&logoColor=white" style="border-radius:10%">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius:10%">
   </a>
 </div>
