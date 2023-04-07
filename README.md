@@ -5,7 +5,7 @@
 <hr>
 <div id="hello" align="center">
     <h3> WHO AM I </h3>
-  <h5>My name is Gaia and I'm 28 years old. <br>I'm a junior front-end developer.</h5>
+  <h5>My name is Gaia and I'm 29 years old. <br>I'm a junior front-end developer.</h5>
 </div>
 <hr>
 <div align="center">
