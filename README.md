@@ -5,13 +5,7 @@
 <hr>
 <div id="hello" align="center">
     <h3> WHO AM I </h3>
-  <h5>My name is Gaia and I'm 29 years old. <br>I'm a junior front-end developer.</h5>
-</div>
-<hr>
-<div align="center">
-    <h3> WHAT DO I DO </h3>
-  <h5>I design and develop standard and showcase web-sites with particular attention on the graphic and aesthetic side.</h5>
-  <h5>I have a past experience of 2 years in graphic & photographic post-production working for fashion and advertising brands that gives me the needed skills to develop websites with particular care on the design.</h5>
+  <h5>My name is Gaia and I'm 32 years old. <br>I'm a software engineer.</h5>
 </div>
 <hr>
 <div align="center">
